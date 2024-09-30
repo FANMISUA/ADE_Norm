@@ -7175,3 +7175,544 @@ soc_code label data_type
 2024-09-30 04:47:09,224 - INFO - No description - training_loss=0.277
 2024-09-30 04:47:09,568 - INFO - No description - training_loss=0.202
 2024-09-30 04:47:09,896 - INFO - No description - training_loss=0.347
+2024-09-30 04:59:15,615 - INFO -                           ade
+soc_code label data_type     
+10007541 15    train       73
+               val         19
+10013993 18    train       13
+               val          3
+10014698 24    train        2
+               val          1
+10015919 10    train       54
+               val         13
+10017947 3     train      240
+               val         60
+10018065 1     train      523
+               val        131
+10019805 19    train       12
+               val          3
+10021428 13    train        3
+               val          1
+10021881 17    train        4
+               val          1
+10022117 9     train       28
+               val          7
+10022891 5     train       65
+               val         17
+10027433 6     train        5
+               val          1
+10028395 4     train      769
+               val        193
+10029104 21    val          1
+10029205 2     train      229
+               val         57
+10037175 0     train      321
+               val         80
+10038359 16    train       40
+               val         10
+10038604 11    train       47
+               val         12
+10038738 8     train       73
+               val         18
+10040785 7     train      147
+               val         37
+10041244 14    train        6
+               val          1
+10047065 12    train       20
+               val          5
+2024-09-30 04:59:18,822 - INFO - Device used: cuda
+2024-09-30 04:59:19,602 - INFO - No description - training_loss=1.040
+2024-09-30 04:59:19,914 - INFO - No description - training_loss=1.054
+2024-09-30 04:59:20,219 - INFO - No description - training_loss=0.967
+2024-09-30 04:59:20,537 - INFO - No description - training_loss=0.949
+2024-09-30 04:59:20,864 - INFO - No description - training_loss=0.925
+2024-09-30 04:59:21,176 - INFO - No description - training_loss=1.023
+2024-09-30 04:59:21,501 - INFO - No description - training_loss=1.014
+2024-09-30 04:59:21,820 - INFO - No description - training_loss=0.866
+2024-09-30 04:59:22,142 - INFO - No description - training_loss=0.928
+2024-09-30 04:59:22,458 - INFO - No description - training_loss=0.946
+2024-09-30 04:59:22,776 - INFO - No description - training_loss=0.889
+2024-09-30 04:59:23,097 - INFO - No description - training_loss=0.959
+2024-09-30 04:59:23,408 - INFO - No description - training_loss=0.874
+2024-09-30 04:59:23,734 - INFO - No description - training_loss=0.942
+2024-09-30 04:59:24,043 - INFO - No description - training_loss=0.726
+2024-09-30 04:59:24,377 - INFO - No description - training_loss=0.758
+2024-09-30 04:59:24,722 - INFO - No description - training_loss=0.789
+2024-09-30 04:59:25,060 - INFO - No description - training_loss=0.639
+2024-09-30 04:59:25,378 - INFO - No description - training_loss=0.693
+2024-09-30 04:59:25,715 - INFO - No description - training_loss=0.789
+2024-09-30 04:59:26,035 - INFO - No description - training_loss=0.797
+2024-09-30 04:59:26,359 - INFO - No description - training_loss=0.781
+2024-09-30 04:59:26,675 - INFO - No description - training_loss=0.766
+2024-09-30 04:59:27,006 - INFO - No description - training_loss=0.816
+2024-09-30 04:59:27,318 - INFO - No description - training_loss=0.774
+2024-09-30 04:59:27,648 - INFO - No description - training_loss=0.628
+2024-09-30 04:59:27,973 - INFO - No description - training_loss=0.757
+2024-09-30 04:59:28,303 - INFO - No description - training_loss=0.712
+2024-09-30 04:59:28,623 - INFO - No description - training_loss=0.620
+2024-09-30 04:59:28,948 - INFO - No description - training_loss=0.684
+2024-09-30 04:59:29,307 - INFO - No description - training_loss=0.550
+2024-09-30 04:59:29,633 - INFO - No description - training_loss=0.793
+2024-09-30 04:59:29,958 - INFO - No description - training_loss=0.728
+2024-09-30 04:59:30,284 - INFO - No description - training_loss=0.691
+2024-09-30 04:59:30,611 - INFO - No description - training_loss=0.684
+2024-09-30 04:59:30,934 - INFO - No description - training_loss=0.565
+2024-09-30 04:59:31,281 - INFO - No description - training_loss=0.680
+2024-09-30 04:59:31,614 - INFO - No description - training_loss=0.557
+2024-09-30 04:59:31,926 - INFO - No description - training_loss=0.804
+2024-09-30 04:59:32,257 - INFO - No description - training_loss=0.679
+2024-09-30 04:59:32,566 - INFO - No description - training_loss=0.870
+2024-09-30 04:59:32,894 - INFO - No description - training_loss=0.764
+2024-09-30 04:59:33,206 - INFO - No description - training_loss=0.607
+2024-09-30 04:59:33,534 - INFO - No description - training_loss=0.653
+2024-09-30 04:59:33,862 - INFO - No description - training_loss=0.601
+2024-09-30 04:59:34,175 - INFO - No description - training_loss=0.625
+2024-09-30 04:59:34,507 - INFO - No description - training_loss=0.657
+2024-09-30 04:59:34,831 - INFO - No description - training_loss=0.638
+2024-09-30 04:59:35,153 - INFO - No description - training_loss=0.633
+2024-09-30 04:59:35,486 - INFO - No description - training_loss=0.594
+2024-09-30 04:59:35,809 - INFO - No description - training_loss=0.576
+2024-09-30 04:59:36,123 - INFO - No description - training_loss=0.632
+2024-09-30 04:59:36,460 - INFO - No description - training_loss=0.523
+2024-09-30 04:59:36,788 - INFO - No description - training_loss=0.629
+2024-09-30 04:59:37,116 - INFO - No description - training_loss=0.646
+2024-09-30 04:59:37,444 - INFO - No description - training_loss=0.521
+2024-09-30 04:59:37,772 - INFO - No description - training_loss=0.588
+2024-09-30 04:59:38,100 - INFO - No description - training_loss=0.535
+2024-09-30 04:59:38,428 - INFO - No description - training_loss=0.531
+2024-09-30 04:59:38,678 - INFO - No description - training_loss=0.538
+2024-09-30 04:59:39,022 - INFO - No description - training_loss=0.393
+2024-09-30 04:59:39,365 - INFO - No description - training_loss=0.423
+2024-09-30 04:59:39,693 - INFO - No description - training_loss=0.541
+2024-09-30 04:59:40,053 - INFO - No description - training_loss=0.440
+2024-09-30 04:59:40,365 - INFO - No description - training_loss=0.649
+2024-09-30 04:59:40,709 - INFO - No description - training_loss=0.350
+2024-09-30 04:59:41,037 - INFO - No description - training_loss=0.449
+2024-09-30 04:59:41,349 - INFO - No description - training_loss=0.377
+2024-09-30 04:59:41,693 - INFO - No description - training_loss=0.625
+2024-09-30 04:59:42,037 - INFO - No description - training_loss=0.624
+2024-09-30 04:59:42,349 - INFO - No description - training_loss=0.476
+2024-09-30 04:59:42,677 - INFO - No description - training_loss=0.551
+2024-09-30 04:59:43,005 - INFO - No description - training_loss=0.598
+2024-09-30 04:59:43,333 - INFO - No description - training_loss=0.580
+2024-09-30 04:59:43,661 - INFO - No description - training_loss=0.393
+2024-09-30 04:59:43,989 - INFO - No description - training_loss=0.493
+2024-09-30 04:59:44,317 - INFO - No description - training_loss=0.741
+2024-09-30 04:59:44,645 - INFO - No description - training_loss=0.623
+2024-09-30 04:59:44,958 - INFO - No description - training_loss=0.567
+2024-09-30 04:59:45,302 - INFO - No description - training_loss=0.522
+2024-09-30 04:59:45,630 - INFO - No description - training_loss=0.467
+2024-09-30 04:59:45,942 - INFO - No description - training_loss=0.472
+2024-09-30 04:59:46,270 - INFO - No description - training_loss=0.520
+2024-09-30 04:59:46,598 - INFO - No description - training_loss=0.469
+2024-09-30 04:59:46,942 - INFO - No description - training_loss=0.429
+2024-09-30 04:59:47,270 - INFO - No description - training_loss=0.553
+2024-09-30 04:59:47,629 - INFO - No description - training_loss=0.560
+2024-09-30 04:59:47,942 - INFO - No description - training_loss=0.500
+2024-09-30 04:59:48,285 - INFO - No description - training_loss=0.453
+2024-09-30 04:59:48,598 - INFO - No description - training_loss=0.567
+2024-09-30 04:59:48,926 - INFO - No description - training_loss=0.523
+2024-09-30 04:59:49,269 - INFO - No description - training_loss=0.533
+2024-09-30 04:59:49,582 - INFO - No description - training_loss=0.479
+2024-09-30 04:59:49,910 - INFO - No description - training_loss=0.827
+2024-09-30 04:59:50,238 - INFO - No description - training_loss=0.494
+2024-09-30 04:59:50,566 - INFO - No description - training_loss=0.399
+2024-09-30 04:59:50,894 - INFO - No description - training_loss=0.409
+2024-09-30 04:59:51,222 - INFO - No description - training_loss=0.392
+2024-09-30 04:59:51,550 - INFO - No description - training_loss=0.363
+2024-09-30 04:59:51,878 - INFO - No description - training_loss=0.503
+2024-09-30 04:59:52,206 - INFO - No description - training_loss=0.412
+2024-09-30 04:59:52,534 - INFO - No description - training_loss=0.416
+2024-09-30 04:59:52,862 - INFO - No description - training_loss=0.332
+2024-09-30 04:59:53,175 - INFO - No description - training_loss=0.361
+2024-09-30 04:59:53,518 - INFO - No description - training_loss=0.219
+2024-09-30 04:59:53,846 - INFO - No description - training_loss=0.385
+2024-09-30 04:59:54,174 - INFO - No description - training_loss=0.473
+2024-09-30 04:59:54,503 - INFO - No description - training_loss=0.411
+2024-09-30 04:59:54,815 - INFO - No description - training_loss=0.554
+2024-09-30 04:59:55,143 - INFO - No description - training_loss=0.404
+2024-09-30 04:59:55,471 - INFO - No description - training_loss=0.311
+2024-09-30 04:59:55,815 - INFO - No description - training_loss=0.403
+2024-09-30 04:59:56,143 - INFO - No description - training_loss=0.482
+2024-09-30 04:59:56,455 - INFO - No description - training_loss=0.292
+2024-09-30 04:59:56,783 - INFO - No description - training_loss=0.331
+2024-09-30 04:59:57,111 - INFO - No description - training_loss=0.300
+2024-09-30 04:59:57,439 - INFO - No description - training_loss=0.383
+2024-09-30 04:59:57,767 - INFO - No description - training_loss=0.480
+2024-09-30 04:59:58,095 - INFO - No description - training_loss=0.361
+2024-09-30 04:59:58,423 - INFO - No description - training_loss=0.326
+2024-09-30 04:59:58,736 - INFO - No description - training_loss=0.171
+2024-09-30 04:59:59,064 - INFO - No description - training_loss=0.440
+2024-09-30 04:59:59,408 - INFO - No description - training_loss=0.284
+2024-09-30 04:59:59,736 - INFO - No description - training_loss=0.240
+2024-09-30 05:00:00,064 - INFO - No description - training_loss=0.483
+2024-09-30 05:00:00,392 - INFO - No description - training_loss=0.535
+2024-09-30 05:00:00,720 - INFO - No description - training_loss=0.269
+2024-09-30 05:00:01,048 - INFO - No description - training_loss=0.376
+2024-09-30 05:00:01,376 - INFO - No description - training_loss=0.384
+2024-09-30 05:00:01,704 - INFO - No description - training_loss=0.265
+2024-09-30 05:00:02,016 - INFO - No description - training_loss=0.327
+2024-09-30 05:00:02,360 - INFO - No description - training_loss=0.459
+2024-09-30 05:00:02,688 - INFO - No description - training_loss=0.509
+2024-09-30 05:00:03,016 - INFO - No description - training_loss=0.271
+2024-09-30 05:00:03,344 - INFO - No description - training_loss=0.429
+2024-09-30 05:00:03,672 - INFO - No description - training_loss=0.404
+2024-09-30 05:00:04,000 - INFO - No description - training_loss=0.330
+2024-09-30 05:00:04,344 - INFO - No description - training_loss=0.548
+2024-09-30 05:00:04,672 - INFO - No description - training_loss=0.279
+2024-09-30 05:00:04,984 - INFO - No description - training_loss=0.274
+2024-09-30 05:00:05,312 - INFO - No description - training_loss=0.498
+2024-09-30 05:00:05,641 - INFO - No description - training_loss=0.327
+2024-09-30 05:00:05,984 - INFO - No description - training_loss=0.356
+2024-09-30 05:00:06,297 - INFO - No description - training_loss=0.399
+2024-09-30 05:00:06,625 - INFO - No description - training_loss=0.318
+2024-09-30 05:00:06,953 - INFO - No description - training_loss=0.462
+2024-09-30 05:00:07,281 - INFO - No description - training_loss=0.273
+2024-09-30 05:00:07,624 - INFO - No description - training_loss=0.546
+2024-09-30 05:00:07,952 - INFO - No description - training_loss=0.269
+2024-09-30 05:00:08,265 - INFO - No description - training_loss=0.218
+2024-09-30 05:00:08,609 - INFO - No description - training_loss=0.363
+2024-09-30 05:00:08,921 - INFO - No description - training_loss=0.394
+2024-09-30 05:00:09,249 - INFO - No description - training_loss=0.377
+2024-09-30 05:00:09,577 - INFO - No description - training_loss=0.350
+2024-09-30 05:00:09,921 - INFO - No description - training_loss=0.351
+2024-09-30 05:00:10,249 - INFO - No description - training_loss=0.313
+2024-09-30 05:00:10,577 - INFO - No description - training_loss=0.282
+2024-09-30 05:00:10,889 - INFO - No description - training_loss=0.282
+2024-09-30 05:00:11,217 - INFO - No description - training_loss=0.412
+2024-09-30 05:00:11,561 - INFO - No description - training_loss=0.319
+2024-09-30 05:00:11,889 - INFO - No description - training_loss=0.398
+2024-09-30 05:00:12,217 - INFO - No description - training_loss=0.196
+2024-09-30 05:00:12,530 - INFO - No description - training_loss=0.277
+2024-09-30 05:00:12,873 - INFO - No description - training_loss=0.202
+2024-09-30 05:00:13,201 - INFO - No description - training_loss=0.347
+2024-09-30 05:00:13,529 - INFO - No description - training_loss=0.175
+2024-09-30 05:00:13,842 - INFO - No description - training_loss=0.361
+2024-09-30 05:00:13,982 - INFO - No description - training_loss=0.532
+2024-09-30 05:00:13,982 - INFO - 
+2024-09-30 05:00:13,982 - INFO - 
+Epoch 1
+2024-09-30 05:00:13,982 - INFO - Training loss: 1.5898571422412282
+2024-09-30 05:00:13,982 - INFO - No description - None
+2024-09-30 05:00:14,295 - INFO - No description - training_loss=0.183
+2024-09-30 05:00:14,638 - INFO - No description - training_loss=0.312
+2024-09-30 05:00:14,966 - INFO - No description - training_loss=0.216
+2024-09-30 05:00:15,294 - INFO - No description - training_loss=0.319
+2024-09-30 05:00:15,623 - INFO - No description - training_loss=0.193
+2024-09-30 05:00:15,951 - INFO - No description - training_loss=0.320
+2024-09-30 05:00:16,279 - INFO - No description - training_loss=0.191
+2024-09-30 05:00:16,607 - INFO - No description - training_loss=0.367
+2024-09-30 05:00:16,919 - INFO - No description - training_loss=0.258
+2024-09-30 05:00:17,263 - INFO - No description - training_loss=0.361
+2024-09-30 05:00:17,591 - INFO - No description - training_loss=0.370
+2024-09-30 05:00:17,919 - INFO - No description - training_loss=0.340
+2024-09-30 05:00:18,247 - INFO - No description - training_loss=0.139
+2024-09-30 05:00:18,575 - INFO - No description - training_loss=0.330
+2024-09-30 05:00:18,903 - INFO - No description - training_loss=0.192
+2024-09-30 05:00:19,231 - INFO - No description - training_loss=0.144
+2024-09-30 05:00:19,575 - INFO - No description - training_loss=0.262
+2024-09-30 05:00:19,903 - INFO - No description - training_loss=0.116
+2024-09-30 05:00:20,246 - INFO - No description - training_loss=0.249
+2024-09-30 05:00:20,574 - INFO - No description - training_loss=0.421
+2024-09-30 05:00:20,887 - INFO - No description - training_loss=0.213
+2024-09-30 05:00:21,231 - INFO - No description - training_loss=0.268
+2024-09-30 05:00:21,559 - INFO - No description - training_loss=0.237
+2024-09-30 05:00:21,887 - INFO - No description - training_loss=0.339
+2024-09-30 05:00:22,215 - INFO - No description - training_loss=0.180
+2024-09-30 05:00:22,558 - INFO - No description - training_loss=0.219
+2024-09-30 05:00:22,886 - INFO - No description - training_loss=0.226
+2024-09-30 05:00:23,214 - INFO - No description - training_loss=0.167
+2024-09-30 05:00:23,543 - INFO - No description - training_loss=0.217
+2024-09-30 05:00:23,871 - INFO - No description - training_loss=0.167
+2024-09-30 05:00:24,199 - INFO - No description - training_loss=0.134
+2024-09-30 05:00:24,542 - INFO - No description - training_loss=0.354
+2024-09-30 05:00:24,870 - INFO - No description - training_loss=0.099
+2024-09-30 05:00:25,198 - INFO - No description - training_loss=0.301
+2024-09-30 05:00:25,526 - INFO - No description - training_loss=0.219
+2024-09-30 05:00:25,854 - INFO - No description - training_loss=0.139
+2024-09-30 05:00:26,183 - INFO - No description - training_loss=0.221
+2024-09-30 05:00:26,526 - INFO - No description - training_loss=0.173
+2024-09-30 05:00:26,854 - INFO - No description - training_loss=0.197
+2024-09-30 05:00:27,182 - INFO - No description - training_loss=0.169
+2024-09-30 05:00:27,510 - INFO - No description - training_loss=0.373
+2024-09-30 05:00:27,854 - INFO - No description - training_loss=0.151
+2024-09-30 05:00:28,198 - INFO - No description - training_loss=0.208
+2024-09-30 05:00:28,526 - INFO - No description - training_loss=0.373
+2024-09-30 05:00:28,838 - INFO - No description - training_loss=0.345
+2024-09-30 05:00:29,182 - INFO - No description - training_loss=0.225
+2024-09-30 05:00:29,510 - INFO - No description - training_loss=0.259
+2024-09-30 05:00:29,838 - INFO - No description - training_loss=0.179
+2024-09-30 05:00:30,182 - INFO - No description - training_loss=0.247
+2024-09-30 05:00:30,510 - INFO - No description - training_loss=0.123
+2024-09-30 05:00:30,838 - INFO - No description - training_loss=0.145
+2024-09-30 05:00:31,166 - INFO - No description - training_loss=0.354
+2024-09-30 05:00:31,494 - INFO - No description - training_loss=0.153
+2024-09-30 05:00:31,822 - INFO - No description - training_loss=0.196
+2024-09-30 05:00:32,166 - INFO - No description - training_loss=0.167
+2024-09-30 05:00:32,494 - INFO - No description - training_loss=0.309
+2024-09-30 05:00:32,822 - INFO - No description - training_loss=0.193
+2024-09-30 05:00:33,150 - INFO - No description - training_loss=0.239
+2024-09-30 05:00:33,493 - INFO - No description - training_loss=0.197
+2024-09-30 05:00:33,821 - INFO - No description - training_loss=0.224
+2024-09-30 05:00:34,149 - INFO - No description - training_loss=0.319
+2024-09-30 05:00:34,477 - INFO - No description - training_loss=0.176
+2024-09-30 05:00:34,806 - INFO - No description - training_loss=0.335
+2024-09-30 05:00:35,134 - INFO - No description - training_loss=0.156
+2024-09-30 05:00:35,462 - INFO - No description - training_loss=0.224
+2024-09-30 05:00:35,790 - INFO - No description - training_loss=0.221
+2024-09-30 05:00:36,118 - INFO - No description - training_loss=0.246
+2024-09-30 05:00:36,446 - INFO - No description - training_loss=0.133
+2024-09-30 05:00:36,774 - INFO - No description - training_loss=0.305
+2024-09-30 05:00:37,102 - INFO - No description - training_loss=0.165
+2024-09-30 05:00:37,446 - INFO - No description - training_loss=0.237
+2024-09-30 05:00:37,774 - INFO - No description - training_loss=0.081
+2024-09-30 05:00:38,102 - INFO - No description - training_loss=0.083
+2024-09-30 05:00:38,430 - INFO - No description - training_loss=0.118
+2024-09-30 05:00:38,742 - INFO - No description - training_loss=0.323
+2024-09-30 05:00:39,086 - INFO - No description - training_loss=0.174
+2024-09-30 05:00:39,414 - INFO - No description - training_loss=0.116
+2024-09-30 05:00:39,742 - INFO - No description - training_loss=0.119
+2024-09-30 05:00:40,070 - INFO - No description - training_loss=0.254
+2024-09-30 05:00:40,414 - INFO - No description - training_loss=0.328
+2024-09-30 05:00:40,726 - INFO - No description - training_loss=0.148
+2024-09-30 05:00:41,070 - INFO - No description - training_loss=0.255
+2024-09-30 05:00:41,398 - INFO - No description - training_loss=0.289
+2024-09-30 05:00:41,726 - INFO - No description - training_loss=0.213
+2024-09-30 05:00:42,054 - INFO - No description - training_loss=0.240
+2024-09-30 05:00:42,382 - INFO - No description - training_loss=0.098
+2024-09-30 05:00:42,710 - INFO - No description - training_loss=0.176
+2024-09-30 05:00:43,038 - INFO - No description - training_loss=0.295
+2024-09-30 05:00:43,366 - INFO - No description - training_loss=0.136
+2024-09-30 05:00:43,710 - INFO - No description - training_loss=0.244
+2024-09-30 05:00:44,038 - INFO - No description - training_loss=0.097
+2024-09-30 05:00:44,366 - INFO - No description - training_loss=0.042
+2024-09-30 05:00:44,678 - INFO - No description - training_loss=0.072
+2024-09-30 05:00:45,022 - INFO - No description - training_loss=0.118
+2024-09-30 05:00:45,366 - INFO - No description - training_loss=0.244
+2024-09-30 05:00:45,709 - INFO - No description - training_loss=0.381
+2024-09-30 05:00:46,033 - INFO - No description - training_loss=0.198
+2024-09-30 05:00:46,376 - INFO - No description - training_loss=0.085
+2024-09-30 05:00:46,704 - INFO - No description - training_loss=0.415
+2024-09-30 05:00:47,032 - INFO - No description - training_loss=0.346
+2024-09-30 05:00:47,387 - INFO - No description - training_loss=0.191
+2024-09-30 05:00:47,728 - INFO - No description - training_loss=0.208
+2024-09-30 05:00:48,054 - INFO - No description - training_loss=0.361
+2024-09-30 05:00:48,382 - INFO - No description - training_loss=0.087
+2024-09-30 05:00:48,711 - INFO - No description - training_loss=0.126
+2024-09-30 05:00:49,053 - INFO - No description - training_loss=0.230
+2024-09-30 05:00:49,381 - INFO - No description - training_loss=0.224
+2024-09-30 05:00:49,709 - INFO - No description - training_loss=0.363
+2024-09-30 05:00:50,037 - INFO - No description - training_loss=0.153
+2024-09-30 05:00:50,381 - INFO - No description - training_loss=0.182
+2024-09-30 05:00:50,709 - INFO - No description - training_loss=0.175
+2024-09-30 05:00:51,053 - INFO - No description - training_loss=0.274
+2024-09-30 05:00:51,381 - INFO - No description - training_loss=0.199
+2024-09-30 05:00:51,709 - INFO - No description - training_loss=0.238
+2024-09-30 05:00:51,990 - INFO - No description - training_loss=0.211
+2024-09-30 05:00:52,318 - INFO - No description - training_loss=0.093
+2024-09-30 05:00:52,646 - INFO - No description - training_loss=0.230
+2024-09-30 05:00:52,990 - INFO - No description - training_loss=0.319
+2024-09-30 05:00:53,302 - INFO - No description - training_loss=0.226
+2024-09-30 05:00:53,646 - INFO - No description - training_loss=0.204
+2024-09-30 05:00:53,974 - INFO - No description - training_loss=0.213
+2024-09-30 05:00:54,302 - INFO - No description - training_loss=0.228
+2024-09-30 05:00:54,646 - INFO - No description - training_loss=0.364
+2024-09-30 05:00:54,974 - INFO - No description - training_loss=0.149
+2024-09-30 05:00:55,302 - INFO - No description - training_loss=0.108
+2024-09-30 05:00:55,645 - INFO - No description - training_loss=0.257
+2024-09-30 05:00:55,973 - INFO - No description - training_loss=0.069
+2024-09-30 05:00:56,302 - INFO - No description - training_loss=0.146
+2024-09-30 05:00:56,630 - INFO - No description - training_loss=0.046
+2024-09-30 05:00:56,973 - INFO - No description - training_loss=0.347
+2024-09-30 05:00:57,301 - INFO - No description - training_loss=0.231
+2024-09-30 05:00:57,645 - INFO - No description - training_loss=0.132
+2024-09-30 05:00:57,973 - INFO - No description - training_loss=0.301
+2024-09-30 05:00:58,317 - INFO - No description - training_loss=0.047
+2024-09-30 05:00:58,645 - INFO - No description - training_loss=0.242
+2024-09-30 05:00:58,973 - INFO - No description - training_loss=0.201
+2024-09-30 05:00:59,301 - INFO - No description - training_loss=0.362
+2024-09-30 05:00:59,629 - INFO - No description - training_loss=0.328
+2024-09-30 05:00:59,973 - INFO - No description - training_loss=0.381
+2024-09-30 05:01:00,285 - INFO - No description - training_loss=0.124
+2024-09-30 05:01:00,629 - INFO - No description - training_loss=0.111
+2024-09-30 05:01:00,972 - INFO - No description - training_loss=0.371
+2024-09-30 05:01:01,285 - INFO - No description - training_loss=0.239
+2024-09-30 05:01:01,628 - INFO - No description - training_loss=0.062
+2024-09-30 05:01:01,956 - INFO - No description - training_loss=0.145
+2024-09-30 05:01:02,284 - INFO - No description - training_loss=0.195
+2024-09-30 05:01:02,628 - INFO - No description - training_loss=0.304
+2024-09-30 05:01:02,956 - INFO - No description - training_loss=0.194
+2024-09-30 05:01:03,284 - INFO - No description - training_loss=0.291
+2024-09-30 05:01:03,628 - INFO - No description - training_loss=0.249
+2024-09-30 05:01:03,956 - INFO - No description - training_loss=0.043
+2024-09-30 05:01:04,284 - INFO - No description - training_loss=0.207
+2024-09-30 05:01:04,612 - INFO - No description - training_loss=0.077
+2024-09-30 05:01:04,940 - INFO - No description - training_loss=0.169
+2024-09-30 05:01:05,268 - INFO - No description - training_loss=0.060
+2024-09-30 05:01:05,612 - INFO - No description - training_loss=0.154
+2024-09-30 05:01:05,940 - INFO - No description - training_loss=0.355
+2024-09-30 05:01:06,268 - INFO - No description - training_loss=0.095
+2024-09-30 05:01:06,596 - INFO - No description - training_loss=0.115
+2024-09-30 05:01:06,924 - INFO - No description - training_loss=0.206
+2024-09-30 05:01:07,252 - INFO - No description - training_loss=0.107
+2024-09-30 05:01:07,580 - INFO - No description - training_loss=0.404
+2024-09-30 05:01:07,924 - INFO - No description - training_loss=0.199
+2024-09-30 05:01:08,252 - INFO - No description - training_loss=0.072
+2024-09-30 05:01:08,580 - INFO - No description - training_loss=0.119
+2024-09-30 05:01:08,924 - INFO - No description - training_loss=0.178
+2024-09-30 05:01:09,252 - INFO - No description - training_loss=0.083
+2024-09-30 05:01:09,377 - INFO - No description - training_loss=0.032
+2024-09-30 05:01:09,377 - INFO - 
+2024-09-30 05:01:09,377 - INFO - 
+Epoch 2
+2024-09-30 05:01:09,377 - INFO - Training loss: 0.639259321171613
+2024-09-30 05:01:09,392 - INFO - No description - None
+2024-09-30 05:01:09,720 - INFO - No description - training_loss=0.167
+2024-09-30 05:01:10,048 - INFO - No description - training_loss=0.123
+2024-09-30 05:01:10,376 - INFO - No description - training_loss=0.300
+2024-09-30 05:01:10,704 - INFO - No description - training_loss=0.205
+2024-09-30 05:01:11,048 - INFO - No description - training_loss=0.183
+2024-09-30 05:01:11,376 - INFO - No description - training_loss=0.243
+2024-09-30 05:01:11,704 - INFO - No description - training_loss=0.034
+2024-09-30 05:01:12,032 - INFO - No description - training_loss=0.088
+2024-09-30 05:01:12,360 - INFO - No description - training_loss=0.097
+2024-09-30 05:01:12,704 - INFO - No description - training_loss=0.116
+2024-09-30 05:01:13,032 - INFO - No description - training_loss=0.180
+2024-09-30 05:01:13,360 - INFO - No description - training_loss=0.230
+2024-09-30 05:01:13,688 - INFO - No description - training_loss=0.129
+2024-09-30 05:01:14,032 - INFO - No description - training_loss=0.056
+2024-09-30 05:01:14,375 - INFO - No description - training_loss=0.074
+2024-09-30 05:01:14,703 - INFO - No description - training_loss=0.034
+2024-09-30 05:01:15,047 - INFO - No description - training_loss=0.129
+2024-09-30 05:01:15,375 - INFO - No description - training_loss=0.178
+2024-09-30 05:01:15,703 - INFO - No description - training_loss=0.165
+2024-09-30 05:01:16,047 - INFO - No description - training_loss=0.135
+2024-09-30 05:01:16,375 - INFO - No description - training_loss=0.100
+2024-09-30 05:01:16,703 - INFO - No description - training_loss=0.095
+2024-09-30 05:01:17,031 - INFO - No description - training_loss=0.192
+2024-09-30 05:01:17,359 - INFO - No description - training_loss=0.110
+2024-09-30 05:01:17,703 - INFO - No description - training_loss=0.226
+2024-09-30 05:01:18,046 - INFO - No description - training_loss=0.142
+2024-09-30 05:01:18,374 - INFO - No description - training_loss=0.116
+2024-09-30 05:01:18,702 - INFO - No description - training_loss=0.128
+2024-09-30 05:01:19,046 - INFO - No description - training_loss=0.062
+2024-09-30 05:01:19,374 - INFO - No description - training_loss=0.283
+2024-09-30 05:01:19,702 - INFO - No description - training_loss=0.094
+2024-09-30 05:01:20,046 - INFO - No description - training_loss=0.171
+2024-09-30 05:01:20,390 - INFO - No description - training_loss=0.041
+2024-09-30 05:01:20,718 - INFO - No description - training_loss=0.124
+2024-09-30 05:01:21,061 - INFO - No description - training_loss=0.097
+2024-09-30 05:01:21,374 - INFO - No description - training_loss=0.100
+2024-09-30 05:01:21,717 - INFO - No description - training_loss=0.185
+2024-09-30 05:01:22,061 - INFO - No description - training_loss=0.133
+2024-09-30 05:01:22,389 - INFO - No description - training_loss=0.039
+2024-09-30 05:01:22,702 - INFO - No description - training_loss=0.053
+2024-09-30 05:01:23,045 - INFO - No description - training_loss=0.115
+2024-09-30 05:01:23,373 - INFO - No description - training_loss=0.025
+2024-09-30 05:01:23,717 - INFO - No description - training_loss=0.111
+2024-09-30 05:01:24,045 - INFO - No description - training_loss=0.036
+2024-09-30 05:01:24,373 - INFO - No description - training_loss=0.037
+2024-09-30 05:01:24,717 - INFO - No description - training_loss=0.243
+2024-09-30 05:01:25,045 - INFO - No description - training_loss=0.113
+2024-09-30 05:01:25,388 - INFO - No description - training_loss=0.167
+2024-09-30 05:01:25,716 - INFO - No description - training_loss=0.025
+2024-09-30 05:01:26,060 - INFO - No description - training_loss=0.030
+2024-09-30 05:01:26,388 - INFO - No description - training_loss=0.137
+2024-09-30 05:01:26,732 - INFO - No description - training_loss=0.185
+2024-09-30 05:01:27,076 - INFO - No description - training_loss=0.074
+2024-09-30 05:01:27,404 - INFO - No description - training_loss=0.065
+2024-09-30 05:01:27,732 - INFO - No description - training_loss=0.063
+2024-09-30 05:01:28,075 - INFO - No description - training_loss=0.058
+2024-09-30 05:01:28,403 - INFO - No description - training_loss=0.202
+2024-09-30 05:01:28,731 - INFO - No description - training_loss=0.072
+2024-09-30 05:01:29,059 - INFO - No description - training_loss=0.288
+2024-09-30 05:01:29,403 - INFO - No description - training_loss=0.119
+2024-09-30 05:01:29,747 - INFO - No description - training_loss=0.186
+2024-09-30 05:01:30,075 - INFO - No description - training_loss=0.072
+2024-09-30 05:01:30,403 - INFO - No description - training_loss=0.235
+2024-09-30 05:01:30,747 - INFO - No description - training_loss=0.036
+2024-09-30 05:01:31,075 - INFO - No description - training_loss=0.115
+2024-09-30 05:01:31,403 - INFO - No description - training_loss=0.014
+2024-09-30 05:01:31,731 - INFO - No description - training_loss=0.103
+2024-09-30 05:01:32,074 - INFO - No description - training_loss=0.163
+2024-09-30 05:01:32,402 - INFO - No description - training_loss=0.107
+2024-09-30 05:01:32,730 - INFO - No description - training_loss=0.078
+2024-09-30 05:01:33,074 - INFO - No description - training_loss=0.175
+2024-09-30 05:01:33,402 - INFO - No description - training_loss=0.190
+2024-09-30 05:01:33,746 - INFO - No description - training_loss=0.024
+2024-09-30 05:01:34,074 - INFO - No description - training_loss=0.145
+2024-09-30 05:01:34,402 - INFO - No description - training_loss=0.163
+2024-09-30 05:01:34,730 - INFO - No description - training_loss=0.133
+2024-09-30 05:01:35,074 - INFO - No description - training_loss=0.095
+2024-09-30 05:01:35,402 - INFO - No description - training_loss=0.102
+2024-09-30 05:01:35,730 - INFO - No description - training_loss=0.037
+2024-09-30 05:01:36,058 - INFO - No description - training_loss=0.138
+2024-09-30 05:01:36,401 - INFO - No description - training_loss=0.031
+2024-09-30 05:01:36,730 - INFO - No description - training_loss=0.149
+2024-09-30 05:01:37,058 - INFO - No description - training_loss=0.114
+2024-09-30 05:01:37,401 - INFO - No description - training_loss=0.068
+2024-09-30 05:01:37,729 - INFO - No description - training_loss=0.049
+2024-09-30 05:01:38,057 - INFO - No description - training_loss=0.089
+2024-09-30 05:01:38,385 - INFO - No description - training_loss=0.039
+2024-09-30 05:01:38,729 - INFO - No description - training_loss=0.260
+2024-09-30 05:01:39,057 - INFO - No description - training_loss=0.069
+2024-09-30 05:01:39,401 - INFO - No description - training_loss=0.045
+2024-09-30 05:01:39,729 - INFO - No description - training_loss=0.035
+2024-09-30 05:01:40,057 - INFO - No description - training_loss=0.013
+2024-09-30 05:01:40,401 - INFO - No description - training_loss=0.024
+2024-09-30 05:01:40,729 - INFO - No description - training_loss=0.115
+2024-09-30 05:01:41,057 - INFO - No description - training_loss=0.051
+2024-09-30 05:01:41,385 - INFO - No description - training_loss=0.114
+2024-09-30 05:01:41,728 - INFO - No description - training_loss=0.467
+2024-09-30 05:01:42,056 - INFO - No description - training_loss=0.015
+2024-09-30 05:01:42,400 - INFO - No description - training_loss=0.141
+2024-09-30 05:01:42,728 - INFO - No description - training_loss=0.227
+2024-09-30 05:01:43,056 - INFO - No description - training_loss=0.061
+2024-09-30 05:01:43,400 - INFO - No description - training_loss=0.045
+2024-09-30 05:01:43,728 - INFO - No description - training_loss=0.035
+2024-09-30 05:01:44,056 - INFO - No description - training_loss=0.061
+2024-09-30 05:01:44,400 - INFO - No description - training_loss=0.075
+2024-09-30 05:01:44,728 - INFO - No description - training_loss=0.145
+2024-09-30 05:01:45,056 - INFO - No description - training_loss=0.277
+2024-09-30 05:01:45,384 - INFO - No description - training_loss=0.084
+2024-09-30 05:01:45,727 - INFO - No description - training_loss=0.125
+2024-09-30 05:01:46,070 - INFO - No description - training_loss=0.032
+2024-09-30 05:01:46,406 - INFO - No description - training_loss=0.121
+2024-09-30 05:01:46,738 - INFO - No description - training_loss=0.112
+2024-09-30 05:01:47,080 - INFO - No description - training_loss=0.100
+2024-09-30 05:01:47,413 - INFO - No description - training_loss=0.033
+2024-09-30 05:01:47,744 - INFO - No description - training_loss=0.069
+2024-09-30 05:01:48,087 - INFO - No description - training_loss=0.111
+2024-09-30 05:01:48,423 - INFO - No description - training_loss=0.047
+2024-09-30 05:01:48,755 - INFO - No description - training_loss=0.028
+2024-09-30 05:01:49,098 - INFO - No description - training_loss=0.141
+2024-09-30 05:01:49,442 - INFO - No description - training_loss=0.163
+2024-09-30 05:01:49,801 - INFO - No description - training_loss=0.082
+2024-09-30 05:01:50,145 - INFO - No description - training_loss=0.052
+2024-09-30 05:01:50,489 - INFO - No description - training_loss=0.250
+2024-09-30 05:01:50,832 - INFO - No description - training_loss=0.108
+2024-09-30 05:01:51,160 - INFO - No description - training_loss=0.036
+2024-09-30 05:01:51,488 - INFO - No description - training_loss=0.140
+2024-09-30 05:01:51,832 - INFO - No description - training_loss=0.031
+2024-09-30 05:01:52,176 - INFO - No description - training_loss=0.072
+2024-09-30 05:01:52,519 - INFO - No description - training_loss=0.044
+2024-09-30 05:01:52,848 - INFO - No description - training_loss=0.097
+2024-09-30 05:01:53,191 - INFO - No description - training_loss=0.087
+2024-09-30 05:01:53,519 - INFO - No description - training_loss=0.105
+2024-09-30 05:01:53,863 - INFO - No description - training_loss=0.185
+2024-09-30 05:01:54,191 - INFO - No description - training_loss=0.269
+2024-09-30 05:01:54,519 - INFO - No description - training_loss=0.150
+2024-09-30 05:01:54,847 - INFO - No description - training_loss=0.023
+2024-09-30 05:01:55,191 - INFO - No description - training_loss=0.044
+2024-09-30 05:01:55,519 - INFO - No description - training_loss=0.090
+2024-09-30 05:01:55,847 - INFO - No description - training_loss=0.020
+2024-09-30 05:01:56,190 - INFO - No description - training_loss=0.271
+2024-09-30 05:01:56,519 - INFO - No description - training_loss=0.170
+2024-09-30 05:01:56,847 - INFO - No description - training_loss=0.036
+2024-09-30 05:01:57,190 - INFO - No description - training_loss=0.140
+2024-09-30 05:01:57,518 - INFO - No description - training_loss=0.081
+2024-09-30 05:01:57,862 - INFO - No description - training_loss=0.066
+2024-09-30 05:01:58,206 - INFO - No description - training_loss=0.107
+2024-09-30 05:01:58,534 - INFO - No description - training_loss=0.124
+2024-09-30 05:01:58,877 - INFO - No description - training_loss=0.161
+2024-09-30 05:01:59,221 - INFO - No description - training_loss=0.119
