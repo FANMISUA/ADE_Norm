@@ -1,0 +1,22 @@
+2024-10-04 13:57:45,397 - INFO -                           ade
+soc_code label data_type     
+10018065 1     train      711
+               val         47
+               val2       131
+10029205 2     train      399
+               val         42
+               val2        57
+10037175 0     train      549
+               val         58
+               val2        81
+2024-10-04 13:59:15,234 - INFO -                           ade
+soc_code label data_type     
+10018065 1     train      711
+               val        131
+               val1        47
+10029205 2     train      399
+               val         57
+               val1        42
+10037175 0     train      549
+               val         81
+               val1        58
